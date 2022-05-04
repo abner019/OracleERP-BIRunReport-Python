@@ -14,6 +14,7 @@ def call():
 
 
 
+
     # Enpoint do Webservice SOAP
     url = "https://efei-dev1.fa.la1.oraclecloud.com:443/xmlpserver/services/PublicReportService";
     #Instanciando Header
