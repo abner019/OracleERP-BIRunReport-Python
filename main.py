@@ -10,7 +10,7 @@ def call():
     encodedBase64 = '';
     decodedString = '';
 
-    contador = 1;
+    contador = 2;
 
 
 
